@@ -2,9 +2,9 @@
 A simple hashing algorithm for integers.
 
 ##Credits
-Ported to Javascript by Alec Gorge ( alecgorge.com ramblingwood.com )
+Ported to a Common.JS and Node.js compatibile module by Alec Gorge ( http://alecgorge.com http://ramblingwood.com )
 
-Original by Kevin Burns Jr. at http://blog.kevburnsjr.com/php-unique-hash
+Original algorithm by Kevin Burns Jr. at http://blog.kevburnsjr.com/php-unique-hash
 
 ##Usage
 See `example.js` and the output `example-output.txt`.
