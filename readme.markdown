@@ -10,7 +10,15 @@ Original by Kevin Burns Jr. at http://blog.kevburnsjr.com/php-unique-hash
 See `example.js` and the output `example-output.txt`.
 
 ##Even quicker sample:
-Example output for the integers 1 through 10:
+Code:
+
+	var psuedo = require('./psuedohash');
+
+	for(var i = 1; i < 11; i++) {
+		console.log(psuedo.udihash(i));
+	}
+
+Output:
 
 	cJio3
 	EdRc6
