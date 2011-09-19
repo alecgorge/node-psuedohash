@@ -2,7 +2,7 @@
 A simple hashing algorithm for integers.
 
 ##Credits
-Ported to a Common.JS and Node.js compatibile module by Alec Gorge ( http://alecgorge.com http://ramblingwood.com )
+Ported to a CommonJS and Node.js compatibile module by Alec Gorge ( http://alecgorge.com http://ramblingwood.com )
 
 Original algorithm by Kevin Burns Jr. at http://blog.kevburnsjr.com/php-unique-hash
 
